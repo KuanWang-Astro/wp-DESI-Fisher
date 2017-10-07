@@ -1,0 +1,12 @@
+simname:bolplanck
+central:False
+Nsidejk:7
+redshift:0.0
+outfile:100317_bolplanck_jk35_smaller_step
+Lbox:250
+halofinder:rockstar
+stepsize:[0.005, 0.005, 0.005, 0.005, 0.005, 0.005, 0.005]
+version:halotools_v0p4
+nproc:55
+Nreal:200
+infile:../ABMCMCfiles/corr1_wp20.0.abfit.covar.chain
