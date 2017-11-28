@@ -1,0 +1,12 @@
+simname:bolplanck
+central:False
+Nsidejk:5
+redshift:0.0
+outfile:100817_wp_Fisher_bolplanck_ngal
+Lbox:250
+halofinder:rockstar
+stepsize:[0.05, 0.1075, 0.037, 0.125, 0.125, 0.05, 0.05]
+version:halotools_v0p4
+nproc:55
+Nreal:100
+infile:../ABMCMCfiles/corr1_wp20.0.abfit.covar.chain
