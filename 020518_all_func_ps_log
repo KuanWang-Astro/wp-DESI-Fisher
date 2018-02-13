@@ -1,0 +1,12 @@
+020518_ngal_wp_vpf_cic_ds_fisher_ps.py
+redshift:0.0
+Lbox:250
+halofinder:rockstar
+outfile:020518_all_func_ps
+version:halotools_v0p4
+ptclpos:bolplanck_1e5_ptcl.txt
+nproc:55
+simname:bolplanck
+vpfcen:012318_vpf_centers_250_1e5.txt
+infile:../ABMCMCfiles/corr1_wp20.0.abfit.covar.chain
+Nparam:2000
